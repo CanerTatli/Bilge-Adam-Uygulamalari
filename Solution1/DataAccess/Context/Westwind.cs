@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataAccess.Entity;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -18,6 +19,18 @@ namespace DataAccess.Context
 
 
         }
+
+        
+        DbSet<AppUser> AppUsers { get; set; }
+
+
+            DbSet<Category> Categories { get; set; }
+
+            DbSet<Product> Products { get; set; }
+                   
+
+
+
 
     }
 }

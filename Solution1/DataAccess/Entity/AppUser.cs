@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Entity
 {
-    internal class AppUser
+    public class AppUser
     {
         public int Id { get; set; }
         public string UserName { get; set; }
 
-        public char Password { get; set; }
+        public string Password { get; set; }
+
+        public string Email { get; set; }
+
+        List<Product> productlist;
+        List<Category> categorylist;
 
 
 
