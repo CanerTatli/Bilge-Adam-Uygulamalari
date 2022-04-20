@@ -8,5 +8,8 @@ namespace Business_Logic_Layer
 {
     internal interface IAdminService
     {
+
+
+
     }
 }

@@ -15,8 +15,7 @@ namespace DataAccess.Entity
 
         public string Email { get; set; }
 
-        List<Product> productlist;
-        List<Category> categorylist;
+        
 
 
 

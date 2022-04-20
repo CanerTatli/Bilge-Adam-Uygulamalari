@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Context
 {
-    internal class Westwind:DbContext
+    public class Westwind:DbContext
     {
         public Westwind()
         {
