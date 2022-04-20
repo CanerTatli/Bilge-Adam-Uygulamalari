@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EmQjNqZ4TOQ4hIbmmwLEX9Sh98d4BN2AeOg79vXEmg5v5lnwMyhM5nHzz/Nt5NPvTdUjfJBUxqShjNgjOmOIBA==",
+  "dgSpecHash": "vbBz7gC7uKWuwmfMWoKgPCOi0UPLR594YNdC5hml8NdaoTQboHABv1LRNfexaWIFuoLa3/ZWtycdgW/taKhkKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ahmet\\Source\\Repos\\Bilge-Adam-Uygulamalari\\Solution1\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

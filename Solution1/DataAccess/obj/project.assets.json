@@ -1031,11 +1031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ahmet\\Source\\Repos\\Bilge-Adam-Uygulamalari\\Solution1\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\ahmet\\source\\repos\\Solution1\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\ahmet\\Source\\Repos\\Bilge-Adam-Uygulamalari\\Solution1\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmet\\source\\repos\\Solution1\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\ahmet\\Source\\Repos\\Bilge-Adam-Uygulamalari\\Solution1\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
