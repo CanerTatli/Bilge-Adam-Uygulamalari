@@ -1,0 +1,7 @@
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\bin\Debug\Carproject.exe.config
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\bin\Debug\Carproject.exe
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\bin\Debug\Carproject.pdb
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\obj\Debug\Carproject.csproj.AssemblyReference.cache
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\obj\Debug\Carproject.csproj.CoreCompileInputs.cache
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\obj\Debug\Carproject.exe
+C:\Users\caner.tatli\source\repos\Carproject\Carproject\obj\Debug\Carproject.pdb
